@@ -1,1 +1,0 @@
-Library databasei singleton yaptım
